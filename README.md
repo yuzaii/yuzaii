@@ -6,3 +6,5 @@
  - 现在是一名大三的学生
  - 正在学习Java、Python、C/C++
  - 我的邮箱：[yuzaii@qq.com](yuzaii@qq.com)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=delstonz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
