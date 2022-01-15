@@ -6,8 +6,9 @@
  - 正在学习Java、Python、C/C++
  - 我的邮箱：[yuzaii@qq.com](yuzaii@qq.com)
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=delstonz&show_icons=true" />
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=delstonz&layout=compact" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=delstonz&layout=compact" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=delstonz&show_icons=true" />
+
 
  
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=delstonz)](https://github.com/anuraghazra/github-readme-stats)
