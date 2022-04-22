@@ -10,6 +10,6 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=delstonz&layout=compact" /> -->
 
  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuzaii)](https://github.com/delstonz/)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuzaii&layout=compact)](https://github.com/delstonz/)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuzaii)](https://github.com/yuzaii/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuzaii&layout=compact)](https://github.com/yuzaii/)
 
